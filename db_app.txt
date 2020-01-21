@@ -1,0 +1,29 @@
+{
+
+	"livros":[
+	{
+	"nome":"O Terceiro Desejo",
+	"capa":"https://img.wook.pt/images/o-terceiro-desejo-andrzej-sapkowski/MXwxODY4NDk0MHwxNDQwNDY1MHwxNTc4ODczNjAwMDAw/502x",
+	"autor":"Andrzej Sapkowski",
+	"sinopse":"O seu nome é Geralt de Rivia. Dizem que é um bruxo e um assassino sem misericórdia que vagueia pelo mundo à caça de monstros e predadores. Mas na verdade vive de acordo com o seu próprio código de conduta. A sua espada serve, em troca de uma recompensa, poderosos reis amaldiçoados, mas também os mais desfavorecidos.Ao longo das suas viagens, Geralt encontra todo o tipo de criaturas - algumas saídas da mitologia eslava e dos contos populares dos irmãos Grimm - como vampiros e lobisomens, elfos, quimeras e estriges, trolls e génios que o tentam, satisfazendo todos os seus desejos. Mas este é apenas o início das suas aventuras como viajante e feiticeiro que irá desafiar o destino num mundo em que criaturas de todas as raças coabitam numa paz precária prestes a despedaçar-se…",
+	"data Edicao":"outubro de 2016",
+	"categoria":"fantasia"
+	},
+	{
+	"nome":"Os Maias",
+	"capa":"https://img.wook.pt/images/os-maias-eca-de-queiros/MXwyOTE5MDU5fDE5MTU3MDc5fDE1Njc3MjQ0MDAwMDA=/502x",
+	"autor":"Eça de Queirós",
+	"sinopse":"Os Maias encerra uma crónica de costumes, retratando, com rigor fotográfico e muito humor, a sociedade lisboeta da segunda metade do século XIX.Trata-se da obra-prima de Eça de Queirós, publicada em 1888, e uma das mais importantes de toda a literatura portuguesa.Vale principalmente pela linguagem em que está escrita e pela fina ironia com que o autor define os caracteres e apresenta as situações. É um romance realista (e naturalista), onde não faltam o fatalismo, a análise social, as peripécias e a catástrofe próprios do enredo passional.A obra ocupa-se da história de uma família (Maia) ao longo de três gerações, centrando-se depois na última geração e dando relevo aos amores incestuosos de Carlos da Maia e Maria Eduarda.Mas a história é também um pretexto para o autor fazer uma crítica à situação decadente do país (a nível político e cultural) e à alta burguesia lisboeta oitocentista, por onde perpassa um humor (ora fino, ora satírico) que configura a derrota e o desengano de todas as personagens.",
+	"data Edicao":"agosto de 2019",
+	"categoria":"romance"
+	},
+	{
+	"nome":"O Tatuador de Auschwitz",
+	"capa":"https://img.wook.pt/images/o-tatuador-de-auschwitz-heather-morris/MXwyMTM3MDQwNnwxNzI1MjkwM3wxNTE2NzUyMDAwMDAw/502x",
+	"autor":"Heather Morris",
+	"sinopse":"Esta é a história assombrosa do tatuador de Auschwitz e da mulher que conquistou o seu coração - um dos episódios mais extraordinários e inesquecíveis do Holocausto.Em 1942, Lale Sokolov chega a Auschwitz-Birkenau. Ali é incumbido da tarefa de tatuar os prisioneiros marcados para sobreviver - gravando uma sequência de números no braço de outras vítimas como ele - com uma tinta indelével. Era assim o processo de criação daquele que veio a tornar -se um dos símbolos mais poderosos do Holocausto.À espera na fila pela sua vez de ser tatuada, aterrorizada e a tremer, encontra-se Gita. Para Lale, um sedutor, foi amor à primeira vista. Ele está determinado não só a lutar pela sua própria sobrevivência mas também pela desta jovem.Um romance baseado em entrevistas que Heather Morris fez ao longo de diversos anos a Ludwig (Lale) Sokolov, vítima do Holocausto e tatuador em Auschwitz-Birkenau. Uma história de amor e sobrevivência no meio dos horrores de um campo de concentração, que agradará a um vasto universo de leitores, em especial aos que leram A Lista de Schindler e O Rapaz do Pijama às Riscas, e que nos mostra de forma pungente e emocionante como o melhor da natureza humana se revela por vezes nas mais terríveis circunstâncias.",
+	"data Edicao":"fevereiro de 2018",
+	"categoria":"romance"
+	}		
+]
+}
