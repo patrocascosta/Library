@@ -2,6 +2,7 @@
 
 	"livros":[
 	{
+		"id": 1,
 	"nome":"O Terceiro Desejo",
 	"capa":"https://img.wook.pt/images/o-terceiro-desejo-andrzej-sapkowski/MXwxODY4NDk0MHwxNDQwNDY1MHwxNTc4ODczNjAwMDAw/502x",
 	"autor":"Andrzej Sapkowski",
@@ -10,6 +11,7 @@
 	"categoria":"fantasia"
 	},
 	{
+		"id": 2,
 	"nome":"Os Maias",
 	"capa":"https://img.wook.pt/images/os-maias-eca-de-queiros/MXwyOTE5MDU5fDE5MTU3MDc5fDE1Njc3MjQ0MDAwMDA=/502x",
 	"autor":"Eça de Queirós",
@@ -18,6 +20,7 @@
 	"categoria":"romance"
 	},
 	{
+		"id": 3,
 	"nome":"O Tatuador de Auschwitz",
 	"capa":"https://img.wook.pt/images/o-tatuador-de-auschwitz-heather-morris/MXwyMTM3MDQwNnwxNzI1MjkwM3wxNTE2NzUyMDAwMDAw/502x",
 	"autor":"Heather Morris",
@@ -25,5 +28,14 @@
 	"data Edicao":"fevereiro de 2018",
 	"categoria":"romance"
 	}		
-]
+],
+	"users": [
+		{
+		"id": 1,
+			"email": "abc@abc.pt",
+			"password": "1234",
+			"avatar": ""
+		},
+		
+		]
 }
